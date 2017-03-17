@@ -1,1 +1,2 @@
 c:\users\user\documents\visual studio 2015\Projects\0317\0317\bin\Debug\0317.exe.config
+C:\Users\user\Desktop\git\0317\0317\bin\Debug\0317.exe.config
