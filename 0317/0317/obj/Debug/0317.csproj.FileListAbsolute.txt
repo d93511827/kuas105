@@ -6,3 +6,9 @@ E:\四下課程\0317\0317\bin\Debug\0317.exe
 E:\四下課程\0317\0317\bin\Debug\0317.pdb
 E:\四下課程\0317\0317\obj\Debug\0317.exe
 E:\四下課程\0317\0317\obj\Debug\0317.pdb
+E:\school\0317\0317\bin\Debug\0317.exe.config
+E:\school\0317\0317\obj\Debug\0317.exe
+E:\school\0317\0317\obj\Debug\0317.pdb
+E:\school\0317\0317\bin\Debug\0317.exe
+E:\school\0317\0317\bin\Debug\0317.pdb
+E:\school\0317\0317\obj\Debug\0317.csprojResolveAssemblyReference.cache

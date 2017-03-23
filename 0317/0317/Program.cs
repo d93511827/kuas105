@@ -30,7 +30,7 @@ namespace _0317
 
 
 
-            var xml = XElement.Load(@"E:\四下課程\0317");
+            var xml = XElement.Load(@"E:\school\0317\data.xml");
 
 
             XNamespace gml = @"http://www.opengis.net/gml/3.2";
@@ -79,4 +79,5 @@ namespace _0317
 
         }
     }
+    
 }
