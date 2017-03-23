@@ -1,2 +1,8 @@
 c:\users\user\documents\visual studio 2015\Projects\0317\0317\bin\Debug\0317.exe.config
 C:\Users\user\Desktop\git\0317\0317\bin\Debug\0317.exe.config
+E:\四下課程\0317\0317\bin\Debug\0317.exe.config
+E:\四下課程\0317\0317\obj\Debug\0317.csprojResolveAssemblyReference.cache
+E:\四下課程\0317\0317\bin\Debug\0317.exe
+E:\四下課程\0317\0317\bin\Debug\0317.pdb
+E:\四下課程\0317\0317\obj\Debug\0317.exe
+E:\四下課程\0317\0317\obj\Debug\0317.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _0317
 {
-    class station
+    class Station
     {
         public string ID { get; set; }
         public string LocationAddress { get; set; }
