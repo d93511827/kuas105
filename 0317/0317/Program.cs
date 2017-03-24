@@ -16,10 +16,10 @@ namespace _0317
             var stations = FindStations();
 
 
+            ShowStation(stations);
 
 
-
-
+            Console.ReadLine();
 
         }
 
@@ -30,7 +30,7 @@ namespace _0317
 
 
 
-            var xml = XElement.Load(@"E:\school\0317\data.xml");
+            var xml = XElement.Load(@"C:\Users\user\Desktop\homework\0317\data.xml");
 
 
             XNamespace gml = @"http://www.opengis.net/gml/3.2";
@@ -38,18 +38,7 @@ namespace _0317
             var stationsNode = xml.Descendants(twed + "RiverStageObservatoryProfile").ToList();
 
 
-            for (var i = 0; i < stationsNode.Count(); i++)
-            {
-                var stationNode = stationsNode[i];
-
-
-            }
-
-            foreach (var stationNode in stationsNode)
-            {
-
-            }
-
+     
 
             stationsNode
                 .Where(x => !x.IsEmpty).ToList()
@@ -78,6 +67,21 @@ namespace _0317
             return stations;
 
         }
+
+        public static void ShowStation(List<Station> stations)
+        {
+
+            Console.WriteLine(string.Format("共收到{0}筆監測站的資料", stations.Count));
+            stations.ForEach(x =>
+            {
+                Console.WriteLine(string.Format("站點名稱：{0},地址:{1}", x.ObservatoryName, x.LocationAddress));
+
+
+            });
+
+
+        }
     }
+
     
 }
