@@ -30,7 +30,7 @@ namespace _0317
 
 
 
-            var xml = XElement.Load(@"C:\Users\user\Desktop\homework\0317\data.xml");
+            var xml = XElement.Load(@"C:\Users\user\Desktop\git105\0317\data.xml");
 
 
             XNamespace gml = @"http://www.opengis.net/gml/3.2";

@@ -18,3 +18,9 @@ C:\Users\user\Desktop\homework\0317\0317\bin\Debug\0317.pdb
 C:\Users\user\Desktop\homework\0317\0317\obj\Debug\0317.csprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\homework\0317\0317\obj\Debug\0317.exe
 C:\Users\user\Desktop\homework\0317\0317\obj\Debug\0317.pdb
+C:\Users\user\Desktop\git105\0317\0317\bin\Debug\0317.exe.config
+C:\Users\user\Desktop\git105\0317\0317\obj\Debug\0317.exe
+C:\Users\user\Desktop\git105\0317\0317\obj\Debug\0317.pdb
+C:\Users\user\Desktop\git105\0317\0317\bin\Debug\0317.exe
+C:\Users\user\Desktop\git105\0317\0317\bin\Debug\0317.pdb
+C:\Users\user\Desktop\git105\0317\0317\obj\Debug\0317.csprojResolveAssemblyReference.cache
